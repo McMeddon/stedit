@@ -1,0 +1,50 @@
+/*move wrapped title, meta, and text up over the image*/
+
+.bloggrid {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	padding: 30px;
+    z-index: 1;
+    color:red !important;
+}
+
+
+/*keep the moved items positioned with their parent items*/
+
+.et_pb_blog_grid article {
+	position: relative;
+}
+
+
+/*remove spacing around entire blog post*/
+
+.et_pb_blog_grid .et_pb_post {
+	padding: 0px;
+}
+
+
+/*remove negative margins on blog featured image*/
+
+.et_pb_image_container {
+	margin: 0;
+}
+
+
+/*remove the margin below the featured image frame*/
+
+.et_pb_post .entry-featured-image-url {
+	margin: 0;
+}
+
+
+
+.et_pb_blog_grid .entry-featured-image-url::before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+}

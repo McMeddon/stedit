@@ -1,0 +1,77 @@
+/*
+ Theme Name:   Stedit Child Theme
+ Description:  Child Theme for DIVI
+ Author:       Your Name
+ Author URI:   https://stedit.com
+ Template:     twentytwenty
+ Version:      1.0
+Text Domain:   twentytwenty-child	
+*/
+
+/*Add your own styles here:*/
+/*-----------------------------------------------------------*/
+@import url('blog.css')
+/*-----------------------------------------------------------*/
+:root{
+    --default-font-size: 18px;
+    --default-font:'Noto Sans', sans-serif;
+}
+/*-----------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{font-family: 'Noto Sans', sans-serif !important; }
+body {font-family: 'Noto Sans', sans-serif !important; }
+
+/* /*-----------------------------------------------------------*/
+/*----------------------------------------------------------
+.btn-primary{
+    float:center;
+    background-color:navy;
+    box-shadow: 
+    0 -4px rgba(46, 46, 46, 0.2) inset,
+    0 4px rgba(219, 219, 219, 0.2) inset,   
+    -4px 0 rgba(206, 206, 206, 0.5) inset,
+    4px 0 rgba(51, 51, 51, 0.8) inset;
+    padding:15px 25px;
+    border:none;
+}
+.btn-primary:hover{
+    transform: translateY(-2px);
+    text-decoration: none;
+   
+   
+}
+
+
+.btn-link,.btn-link:hover{   
+    font-family:var(--default-font) ;
+    font-weight: 600 !important; 
+    font-size: var(--default-font-size);
+    color:white !important; 
+    text-decoration: none;
+    
+}
+ */
+
+
+
+
+
+/* .btn-primary,
+.btn-primary::before {
+  background-color: #36b030;
+  -webkit-box-shadow: 
+    0 -4px rgba(21, 108, 0, 0.5) inset !important,
+    0 4px rgba(100, 253, 31, 0.99) inset !important, 
+    -4px 0 rgba(100, 253, 31, 0.5) inset !important,
+    4px 0 rgba(21, 108, 0, 0.5) inset !important;
+  box-shadow:
+    0 -4px rgba(21, 108, 0, 0.5) inset !important,
+    0 4px rgba(100, 253, 31, 0.99) inset !important, 
+    -4px 0 rgba(100, 253, 31, 0.5) inset !important,
+    4px 0 rgba(21, 108, 0, 0.5) inset !important;
+}  */
+
+
+
+/*move wrapped title, meta, and text up over the image*/
+

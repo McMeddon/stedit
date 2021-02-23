@@ -9,7 +9,7 @@
 	<title>
 	Comments for The Stedit Community	</title>
 	<atom:link href="http://localhost/comments/feed" rel="self" type="application/rss+xml" />
-	<link>http://localhost:10057</link>
+	<link>https://stedit.com</link>
 	<description>Creative Maps to Explore, Play, and Enjoy</description>
 	<lastBuildDate>Tue, 23 Feb 2021 00:44:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -1,5 +1,5 @@
 Uri: https://stedit.com/
-File Name: H:\webprojects\Stedit\official github output\localhost\index.htm
+File Name: H:\webprojects\Stedit\official github output\localhost\index
 Content Type: text/html
 
 Uri: https://stedit.com/wp-content/uploads/2020/10/bg-wool-white.jpg
@@ -95,199 +95,199 @@ File Name: H:\webprojects\Stedit\official github output\localhost\wp-content\upl
 Content Type: image/png
 
 Uri: https://stedit.com/tutorial
-File Name: H:\webprojects\Stedit\official github output\localhost\tutorial.html
+File Name: H:\webprojects\Stedit\official github output\localhost\tutorial
 Content Type: text/html
 
 Uri: https://stedit.com/map
-File Name: H:\webprojects\Stedit\official github output\localhost\map.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map
 Content Type: text/html
 
 Uri: https://stedit.com/faq
-File Name: H:\webprojects\Stedit\official github output\localhost\faq.html
+File Name: H:\webprojects\Stedit\official github output\localhost\faq
 Content Type: text/html
 
 Uri: https://stedit.com/map/ixellior
-File Name: H:\webprojects\Stedit\official github output\localhost\map\ixellior.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\ixellior
 Content Type: text/html
 
 Uri: https://stedit.com/map/hamerian
-File Name: H:\webprojects\Stedit\official github output\localhost\map\hamerian.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\hamerian
 Content Type: text/html
 
 Uri: https://stedit.com/map/genboan
-File Name: H:\webprojects\Stedit\official github output\localhost\map\genboan.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\genboan
 Content Type: text/html
 
 Uri: https://stedit.com/map/feon
-File Name: H:\webprojects\Stedit\official github output\localhost\map\feon.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\feon
 Content Type: text/html
 
 Uri: https://stedit.com/map/emion
-File Name: H:\webprojects\Stedit\official github output\localhost\map\emion.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\emion
 Content Type: text/html
 
 Uri: https://stedit.com/map/bamerian
-File Name: H:\webprojects\Stedit\official github output\localhost\map\bamerian.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\bamerian
 Content Type: text/html
 
 Uri: https://stedit.com/map/depano
-File Name: H:\webprojects\Stedit\official github output\localhost\map\depano.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\depano
 Content Type: text/html
 
 Uri: https://stedit.com/map/mesotan
-File Name: H:\webprojects\Stedit\official github output\localhost\map\mesotan.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\mesotan
 Content Type: text/html
 
 Uri: https://stedit.com/map/itoro
-File Name: H:\webprojects\Stedit\official github output\localhost\map\itoro.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\itoro
 Content Type: text/html
 
 Uri: https://stedit.com/map/habiday
-File Name: H:\webprojects\Stedit\official github output\localhost\map\habiday.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\habiday
 Content Type: text/html
 
 Uri: https://stedit.com/map/genroll
-File Name: H:\webprojects\Stedit\official github output\localhost\map\genroll.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\genroll
 Content Type: text/html
 
 Uri: https://stedit.com/map/feria
-File Name: H:\webprojects\Stedit\official github output\localhost\map\feria.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\feria
 Content Type: text/html
 
 Uri: https://stedit.com/map/eteral
-File Name: H:\webprojects\Stedit\official github output\localhost\map\eteral.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\eteral
 Content Type: text/html
 
 Uri: https://stedit.com/map/dekan
-File Name: H:\webprojects\Stedit\official github output\localhost\map\dekan.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\dekan
 Content Type: text/html
 
 Uri: https://stedit.com/map/cendar
-File Name: H:\webprojects\Stedit\official github output\localhost\map\cendar.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\cendar
 Content Type: text/html
 
 Uri: https://stedit.com/map/kanberg
-File Name: H:\webprojects\Stedit\official github output\localhost\map\kanberg.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\kanberg
 Content Type: text/html
 
 Uri: https://stedit.com/map/teron
-File Name: H:\webprojects\Stedit\official github output\localhost\map\teron.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\teron
 Content Type: text/html
 
 Uri: https://stedit.com/map/zion
-File Name: H:\webprojects\Stedit\official github output\localhost\map\zion.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\zion
 Content Type: text/html
 
 Uri: https://stedit.com/map/rokhall
-File Name: H:\webprojects\Stedit\official github output\localhost\map\rokhall.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\rokhall
 Content Type: text/html
 
 Uri: https://stedit.com/map/allheim
-File Name: H:\webprojects\Stedit\official github output\localhost\map\allheim.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\allheim
 Content Type: text/html
 
 Uri: https://stedit.com/map/trontal
-File Name: H:\webprojects\Stedit\official github output\localhost\map\trontal.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\trontal
 Content Type: text/html
 
 Uri: https://stedit.com/map/bremal
-File Name: H:\webprojects\Stedit\official github output\localhost\map\bremal.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\bremal
 Content Type: text/html
 
 Uri: https://stedit.com/map/halvion
-File Name: H:\webprojects\Stedit\official github output\localhost\map\halvion.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\halvion
 Content Type: text/html
 
 Uri: https://stedit.com/map/rastion
-File Name: H:\webprojects\Stedit\official github output\localhost\map\rastion.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\rastion
 Content Type: text/html
 
 Uri: https://stedit.com/map/kantatur
-File Name: H:\webprojects\Stedit\official github output\localhost\map\kantatur.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\kantatur
 Content Type: text/html
 
 Uri: https://stedit.com/map/alisonder
-File Name: H:\webprojects\Stedit\official github output\localhost\map\alisonder.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\alisonder
 Content Type: text/html
 
 Uri: https://stedit.com/map/pomrim
-File Name: H:\webprojects\Stedit\official github output\localhost\map\pomrim.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\pomrim
 Content Type: text/html
 
 Uri: https://stedit.com/map/wulfberg
-File Name: H:\webprojects\Stedit\official github output\localhost\map\wulfberg.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\wulfberg
 Content Type: text/html
 
 Uri: https://stedit.com/map/renway
-File Name: H:\webprojects\Stedit\official github output\localhost\map\renway.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\renway
 Content Type: text/html
 
 Uri: https://stedit.com/map/torstun
-File Name: H:\webprojects\Stedit\official github output\localhost\map\torstun.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\torstun
 Content Type: text/html
 
 Uri: https://stedit.com/map/fractlands
-File Name: H:\webprojects\Stedit\official github output\localhost\map\fractlands.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\fractlands
 Content Type: text/html
 
 Uri: https://stedit.com/map/twomberg
-File Name: H:\webprojects\Stedit\official github output\localhost\map\twomberg.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\twomberg
 Content Type: text/html
 
 Uri: https://stedit.com/map/karolier
-File Name: H:\webprojects\Stedit\official github output\localhost\map\karolier.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\karolier
 Content Type: text/html
 
 Uri: https://stedit.com/map/clifftorm
-File Name: H:\webprojects\Stedit\official github output\localhost\map\clifftorm.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\clifftorm
 Content Type: text/html
 
 Uri: https://stedit.com/map/worcoast
-File Name: H:\webprojects\Stedit\official github output\localhost\map\worcoast.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\worcoast
 Content Type: text/html
 
 Uri: https://stedit.com/map/kenmaya
-File Name: H:\webprojects\Stedit\official github output\localhost\map\kenmaya.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\kenmaya
 Content Type: text/html
 
 Uri: https://stedit.com/map/distordes
-File Name: H:\webprojects\Stedit\official github output\localhost\map\distordes.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\distordes
 Content Type: text/html
 
 Uri: https://stedit.com/map/skanfjord
-File Name: H:\webprojects\Stedit\official github output\localhost\map\skanfjord.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\skanfjord
 Content Type: text/html
 
 Uri: https://stedit.com/map/marland
-File Name: H:\webprojects\Stedit\official github output\localhost\map\marland.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\marland
 Content Type: text/html
 
 Uri: https://stedit.com/map/westburg
-File Name: H:\webprojects\Stedit\official github output\localhost\map\westburg.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\westburg
 Content Type: text/html
 
 Uri: https://stedit.com/map/transformed-villager-outpost
-File Name: H:\webprojects\Stedit\official github output\localhost\map\transformed-villager-outpost.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\transformed-villager-outpost
 Content Type: text/html
 
 Uri: https://stedit.com/map/stratyrosion-a-desert-mesa-terrain
-File Name: H:\webprojects\Stedit\official github output\localhost\map\stratyrosion-a-desert-mesa-terrain.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\stratyrosion-a-desert-mesa-terrain
 Content Type: text/html
 
 Uri: https://stedit.com/map/bomrosion
-File Name: H:\webprojects\Stedit\official github output\localhost\map\bomrosion.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\bomrosion
 Content Type: text/html
 
 Uri: https://stedit.com/map/rocky-forest
-File Name: H:\webprojects\Stedit\official github output\localhost\map\rocky-forest.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\rocky-forest
 Content Type: text/html
 
 Uri: https://stedit.com/map/realistic-archipelago-jungle-islands
-File Name: H:\webprojects\Stedit\official github output\localhost\map\realistic-archipelago-jungle-islands.html
+File Name: H:\webprojects\Stedit\official github output\localhost\map\realistic-archipelago-jungle-islands
 Content Type: text/html
 
 Uri: https://stedit.com/web-stories/best-2020-realistic-maps
-File Name: H:\webprojects\Stedit\official github output\localhost\web-stories\best-2020-realistic-maps.html
+File Name: H:\webprojects\Stedit\official github output\localhost\web-stories\best-2020-realistic-maps
 Content Type: text/html
 
 Uri: https://stedit.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
@@ -599,7 +599,7 @@ File Name: H:\webprojects\Stedit\official github output\localhost\wp-json\oembed
 Content Type: text/xml
 
 Uri: https://stedit.com/author/admin
-File Name: H:\webprojects\Stedit\official github output\localhost\author\admin.html
+File Name: H:\webprojects\Stedit\official github output\localhost\author\admin
 Content Type: text/html
 
 Uri: https://stedit.com/wp-json/wp/v2/pages/1017
